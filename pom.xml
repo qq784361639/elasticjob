@@ -49,6 +49,8 @@
             <artifactId>mhcjob-spring-boot-starter</artifactId>
             <version>1.0.4</version>
 
+
+
         </dependency>
         <dependency>
             <groupId>com.mhc</groupId>
