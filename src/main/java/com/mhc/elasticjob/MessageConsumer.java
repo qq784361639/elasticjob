@@ -19,5 +19,6 @@ public class MessageConsumer extends AbstractMQPushConsumer<Object> {
         System.out.println(o.toString());
         return true;
 
+
     }
 }
