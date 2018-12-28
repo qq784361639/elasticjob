@@ -20,5 +20,7 @@ public class MessageConsumer extends AbstractMQPushConsumer<Object> {
         return true;
 
 
+
+
     }
 }
