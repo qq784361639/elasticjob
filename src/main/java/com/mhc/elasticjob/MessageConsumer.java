@@ -18,5 +18,6 @@ public class MessageConsumer extends AbstractMQPushConsumer<Object> {
     public boolean process(Object o, Map<String, Object> map) {
         System.out.println(o.toString());
         return true;
+
     }
 }
